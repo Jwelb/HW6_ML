@@ -12,6 +12,6 @@ Ulysses - buenou19@students.ecu.edu
 
 ![Screenshot](ml1.png)
 ![Screenshot](ml2.png)
-![Screenshot](ml-3.png)
+![Screenshot](ml3.png)
 ![Screenshot](ml4.png)
 ![Screenshot](ml5.png)
