@@ -8,7 +8,7 @@ Jordan Welborn - welbornj21@students.ecu.edu
 
 Darian O'dirling - odirlingd21@students.ecu.edu
 
-Ulysses - buenou19@students.ecu.edu
+Ulysses Bueno - buenou19@students.ecu.edu
 
 ![Screenshot](ml2.png)
 ![Screenshot](ml3.png)
