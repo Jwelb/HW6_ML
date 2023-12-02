@@ -10,7 +10,6 @@ Darian O'dirling - odirlingd21@students.ecu.edu
 
 Ulysses - buenou19@students.ecu.edu
 
-![Screenshot](ml1.png)
 ![Screenshot](ml2.png)
 ![Screenshot](ml3.png)
 ![Screenshot](ml4.png)
