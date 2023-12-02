@@ -3,9 +3,9 @@ This project is intended to classify digits with SVM models, use PCA to reduce d
 
 From the output above: linear kernel = 93 % Polynomial kernel = 94% Radial = 93%. Hence, the polynomial kernel is more accurate when compared to linear and radial.
 
-Team member names:
-Jordan Welborn 
+# Team member names
+Jordan Welborn - welbornj21@students.ecu.edu
 
-Darian O'dirling
+Darian O'dirling - odirlingd21@students.ecu.edu
 
-Oylesses 
+Ulysses - buenou19@students.ecu.edu
